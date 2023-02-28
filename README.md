@@ -1,7 +1,6 @@
 My Github
  
 
-About me
 Hi, I am a recent Graduate of an MSCI Biology & Marine Biology course at the university of Southampton. I am looking to pursue a career in Data analysis, and I have uploaded a few examples of my work in several programs/languages on my github, as a demonstration of some of the software skills I have developed through University and self-study.
 
  
